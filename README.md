@@ -10,5 +10,8 @@ This repository is constituted by all assets used in my game project. Game mecha
 
 Download Page: https://mugwanezamanzi.itch.io/lets-flarp
 
+<div style="display='flex;'">
+  <img src="https://img.itch.zone/aW1hZ2UvMzMzMzE3Ny8yMDQ1OTk3My5wbmc=/794x1000/h2FcNO.png" width="300px" />
+<img src="https://img.itch.zone/aW1hZ2UvMzMzMzE3Ny8yMDQ1OTk5MC5wbmc=/794x1000/SxMa94.png" width="300px" />
 
-<img src="https://img.itch.zone/aW1hZ2UvMzMzMzE3Ny8yMDQ1OTk3My5wbmc=/794x1000/h2FcNO.png" />
+</div>
