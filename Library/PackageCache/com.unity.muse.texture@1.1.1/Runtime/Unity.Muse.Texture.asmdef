@@ -1,0 +1,56 @@
+{
+    "name": "Unity.Muse.Texture",
+    "rootNamespace": "Unity.Muse.Texture",
+    "references": [
+        "GUID:2665a8d13d1b3f18800f46e256720795",
+        "GUID:2edcef92c5756d2da266000405840bb7",
+        "GUID:e0205eb74dc764cf6ab9891355857e49",
+        "GUID:457756d89b35d2941b3e7b37b4ece6f1",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95",
+        "GUID:d8b63aba1907145bea998dd612889d6b",
+        "GUID:df5ee7bbe4797deda3ee000426751c81",
+        "GUID:15fc0a57446b3144c949da3e2b9737a9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "0.0.0",
+            "define": "USING_URP"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "0.0.0",
+            "define": "USING_HDRP"
+        },
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "16.0.0",
+            "define": "USING_HDRP_16_OR_NEWER"
+        },        
+        {
+            "name": "Unity",
+            "expression": "2023.3.0a1",
+            "define": "ENABLE_UXML_SERIALIZED_DATA"
+        },
+        {
+            "name": "Unity",
+            "expression": "[2021.3,2023.3.0a1)",
+            "define": "ENABLE_UXML_TRAITS"
+        },
+        {
+            "name": "Unity",
+            "expression": "2023.2.0a22",
+            "define": "ENABLE_UNITYENGINE_ANALITICS"
+        }
+    ],
+    "noEngineReferences": false
+}

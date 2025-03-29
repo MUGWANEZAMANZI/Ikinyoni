@@ -1,0 +1,10 @@
+apiRules:
+  - exclude:
+      uidRegex: Unity\.Muse\.Texture\.Tests
+      type: Namespace
+  - exclude:
+      uidRegex: Unity\.Muse\.Texture\.Editor\.Tests
+      type: Namespace
+  - exclude:
+      uidRegex: Unity\.Muse\.Texture\.Samples\..*
+      type: Namespace
