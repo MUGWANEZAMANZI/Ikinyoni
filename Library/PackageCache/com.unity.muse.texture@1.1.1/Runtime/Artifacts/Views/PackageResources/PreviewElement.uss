@@ -1,4 +1,0 @@
-:root{
-    background-color: var(--appui-color-transparent-black-0);
-    border-color: var(--appui-color-transparent-black-0);
-}
