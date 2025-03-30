@@ -1,0 +1,54 @@
+GenerationSettings {
+    min-width: 250px;
+    padding: var(--appui-alias-control-gap-xl);
+    background-color: var(--appui-backgrounds-300);
+    --appui-font-sizes-body-md: var(--appui-font-sizes-100);
+    --background-color: var(--appui-backgrounds-300);
+    border-radius: var(--appui-alias-control-border-radius);
+}
+
+.titlebar {
+    margin-bottom: 0;
+    height: 30px;
+}
+
+.title {
+    color: var(--appui-foregrounds-200);
+    -unity-font-style: bold;
+    -unity-text-align: middle-center;
+}
+
+.row {
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.row.operator-settings {
+    align-items: flex-start;
+    margin-top: var(--appui-spacing-125);
+}
+
+.row #content {
+    flex-grow: 1;
+    padding-right: var(--appui-spacing-125);
+    padding-left: var(--appui-spacing-125); 
+    padding-top: 3px;
+    max-width: 309px;
+}
+
+.row #label {
+    color: var(--appui-foregrounds-25);
+    padding-top: 3px;
+    max-width: 112px;
+}
+
+.row Image {
+    max-width: 100px;
+    max-height: 100px;
+    background-color: var(--appui-primary-100);
+    border-radius: var(--appui-border-radius-sm);
+}
+
+#use {
+    height: 24px;
+}
