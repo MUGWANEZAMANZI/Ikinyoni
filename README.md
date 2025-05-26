@@ -1,6 +1,6 @@
 # Ikinyoni
 
-**Ikinyoni** is a Unity LTS 2023 game project that challenges players to navigate a bird through a series of gates while solving Mars-related puzzles to unlock extra rewards. This project was proudly created during the **Space Hackathon 2025**, with the inspiring mission of using gaming to promote the idea of **planting trees on Mars**.
+**Ikinyoni** is a Unity LTS 2023 game project that challenges players to navigate a bird through a series of gates while solving Mars-related puzzles to unlock extra rewards. This project was proudly created  with the inspiring mission of using gaming to promote the idea of **planting trees on Mars**.
 
 ## Game Features
 
